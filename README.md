@@ -26,6 +26,10 @@ que no están en la prueba, como el target al que me tengo que dirigir, si es un
 landing page para una campaña de remarketing, además aún sabiendo esto, lo mejor seria diseñar varias versiones
 y realizar algun tipo de test A B, y tener métricas para poder trabajar a partir de ahí.
 
+También seria importante si fuese una landing real, aportar todos los metadatos para un mejor posicionamiento
+y poder resolver mejor las intenciones de búsqueda al igual que una buena semántica dentro del código y
+seguir prácicas SEO básicas y legales...
+
 en cuanto al diseño, no soy diseñador, por ende con chat gpt he intentado crear algunas imagenes de dinosaurios,
 para dar una temática menos seria tal vez y que no quedase demasiado básico.
 
